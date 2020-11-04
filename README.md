@@ -1,10 +1,8 @@
 # Machine Learning
-This is a repo that contains my notes, codes and workings from several Machine Learning courses and my own ideas.
-
-### For Notes: [HERE](https://hackmd.io/@banrovegrie/s1ejuluhu)
+This is a repo that contains some of my notes and codes on Introductory Machine Learning courses and my own ideas.
 
 ## Topics to be covered:
  
- - Introductory Machine Learning and Deep Learning
+ - Deep Learning
  - Advanced Machine Learning
- - Reference books mainly, Deep Learning Book
+ - Reference books mainly: Deep Learning Book, Understanding Machine Learning and AI Modern Approach 
