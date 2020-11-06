@@ -5,4 +5,4 @@ This is a repo that contains some of my notes and codes on Introductory Machine 
  
  - Deep Learning
  - Advanced Machine Learning
- - Reference books mainly: Deep Learning Book, Understanding Machine Learning and AI Modern Approach 
+ - Reinforcement Learning
