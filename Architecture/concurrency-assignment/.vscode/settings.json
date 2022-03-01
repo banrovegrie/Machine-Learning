@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "pthread.h": "c",
-        "cmath": "c",
-        "type_traits": "c",
-        "limits": "c",
-        "typeinfo": "c"
-    }
-}
